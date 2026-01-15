@@ -1,0 +1,6 @@
+export const MESSAGE_TYPES = {
+  JOIN: "JOIN",
+  CODE_CHANGE: "CODE_CHANGE",
+  SYNC_CODE: "SYNC_CODE",
+  PRESENCE: "PRESENCE",
+};

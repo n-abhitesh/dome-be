@@ -1,0 +1,13 @@
+{
+  "name": "dome-server",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "dev": "node src/index.js",
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "ws": "^8.16.0",
+    "nanoid": "^5.0.4"
+  }
+}
